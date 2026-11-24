@@ -8,8 +8,7 @@ pipeline and never touch the APK.
 
 ## [1.0.0] — 2026-11-24 (Play-Store-ready)
 
-First complete release build. Signed with release keystore
-(see `docs/SIGNATURE.md`).
+First complete release build. Signed with the ministry release keystore.
 
 ### Added — App
 - 4 bottom tabs: **उद्देश्य** (default) · **विश्वास** · **रोडमेप** · **प्रगति**
